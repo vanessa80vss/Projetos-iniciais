@@ -1,0 +1,45 @@
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.exe
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.deps.json
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.runtimeconfig.json
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.AssemblyReference.cache
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfoInputs.cache
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfo.cs
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\refint\Sprint3 Ecommerce.dll
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.genruntimeconfig.cache
+C:\Users\ClearTech\source\repos\Sprint3 Ecommerce\obj\Debug\net6.0\ref\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.exe
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.deps.json
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.runtimeconfig.json
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\bin\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.AssemblyReference.cache
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfoInputs.cache
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfo.cs
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.CoreCompileInputs.cache
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\refint\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\Sprint3 Ecommerce.genruntimeconfig.cache
+C:\Diretorio\T3-VanessaSilva\Sprint3 Ecommerce\obj\Debug\net6.0\ref\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\bin\Debug\net6.0\Sprint3 Ecommerce.exe
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\bin\Debug\net6.0\Sprint3 Ecommerce.deps.json
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\bin\Debug\net6.0\Sprint3 Ecommerce.runtimeconfig.json
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\bin\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\bin\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.AssemblyReference.cache
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfoInputs.cache
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.AssemblyInfo.cs
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.csproj.CoreCompileInputs.cache
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\refint\Sprint3 Ecommerce.dll
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.pdb
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\Sprint3 Ecommerce.genruntimeconfig.cache
+C:\Diretorio\T3-VanessaSilva\Sprint 4 - finalizada\obj\Debug\net6.0\ref\Sprint3 Ecommerce.dll
